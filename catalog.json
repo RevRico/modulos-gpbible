@@ -42,6 +42,12 @@
     "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/ASL.zip"
   },
   {
+    "name": "Targum de Jerusalém",
+    "fileName": "TRGJ.zip",
+    "category": "Bíblias",
+    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/TRGJ.zip"
+  },
+  {
     "name": "Subtítulos NVI",
     "fileName": "brNVI-s.subheadings.zip",
     "category": "Subtítulos",
