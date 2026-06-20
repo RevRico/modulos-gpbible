@@ -3,14 +3,49 @@
     "name": "Bíblia ARA+",
     "fileName": "ARA+.zip",
     "category": "Bíblias",
-    "size": "5.2 MB",
-    "url": "https://raw.githubusercontent.com/SEU_USUARIO/modulos-gpbible/main/ARA+.zip"
+    "size": "4.5 MB",
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPOSITORIO/main/ARA+.zip"
   },
   {
-    "name": "Comentário Moody",
-    "fileName": "Moody.zip",
-    "category": "Comentários",
-    "size": "8.1 MB",
-    "url": "https://raw.githubusercontent.com/SEU_USUARIO/modulos-gpbible/main/Moody.zip"
+    "name": "Bíblia A21",
+    "fileName": "A21.zip",
+    "category": "Bíblias",
+    "size": "4.2 MB",
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPOSITORIO/main/A21.zip"
+  },
+  {
+    "name": "Bíblia Almeida Atualizada",
+    "fileName": "AA.zip",
+    "category": "Bíblias",
+    "size": "4.1 MB",
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPOSITORIO/main/AA.zip"
+  },
+  {
+    "name": "Subtítulos NVI",
+    "fileName": "brNVI-s.subheadings.zip",
+    "category": "Subtítulos",
+    "size": "100 KB",
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPOSITORIO/main/brNVI-s.subheadings.zip"
+  },
+  {
+    "name": "Subtítulos NTLH",
+    "fileName": "brNTLH-s.subheadings.zip",
+    "category": "Subtítulos",
+    "size": "100 KB",
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPOSITORIO/main/brNTLH-s.subheadings.zip"
+  },
+  {
+    "name": "Subtítulos LTT",
+    "fileName": "LTT-s.subheadings.zip",
+    "category": "Subtítulos",
+    "size": "100 KB",
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPOSITORIO/main/LTT-s.subheadings.zip"
+  },
+  {
+    "name": "Subtítulos PT",
+    "fileName": "PT-s.subheadings.zip",
+    "category": "Subtítulos",
+    "size": "100 KB",
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPOSITORIO/main/PT-s.subheadings.zip"
   }
 ]
