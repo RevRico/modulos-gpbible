@@ -35,6 +35,13 @@
     "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/Almeida1911.zip"
   },
   {
+    "name": "As Sagradas Letras",
+    "fileName": "ASL.zip",
+    "category": "Bíblias",
+    "size": "1.9 MB",
+    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/ASL.zip"
+  },
+  {
     "name": "Subtítulos NVI",
     "fileName": "brNVI-s.subheadings.zip",
     "category": "Subtítulos",
