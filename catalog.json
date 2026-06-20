@@ -21,6 +21,20 @@
     "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/ProVer.zip"
   },
   {
+    "name": "ARC 1969 atualizado",
+    "fileName": "ARC1969.zip",
+    "category": "Bíblias",
+    "size": "1.6 MB",
+    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/ARC1969.zip"
+  },
+  {
+    "name": "Almeida 1911",
+    "fileName": "Almeida1911.zip",
+    "category": "Bíblias",
+    "size": "3.4 MB",
+    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/Almeida1911.zip"
+  },
+  {
     "name": "Subtítulos NVI",
     "fileName": "brNVI-s.subheadings.zip",
     "category": "Subtítulos",
