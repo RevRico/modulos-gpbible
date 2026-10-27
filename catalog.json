@@ -1,86 +1,2034 @@
 [
-  {
-    "name": "Padre Figueiredo 1821",
-    "fileName": "BPF'1821.zip",
-    "category": "Bíblias",
-    "size": "1.7 MB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/BPF'1821.zip"
-  },
-  {
-    "name": "Bíblia Padre Matos Soares 1956",
-    "fileName": "PMS'1956.zip",
-    "category": "Bíblias",
-    "size": "3.2 MB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/PMS'1956.zip"
-  },
-  {
-    "name": "Bíblia Instrutiva Prosperidade Verdadeira",
-    "fileName": "ProVer.zip",
-    "category": "Bíblias",
-    "size": "4.1 MB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/ProVer.zip"
-  },
-  {
-    "name": "ARC 1969 atualizado",
-    "fileName": "ARC1969.zip",
-    "category": "Bíblias",
-    "size": "1.6 MB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/ARC1969.zip"
-  },
-  {
-    "name": "Almeida 1911",
-    "fileName": "Almeida1911.zip",
-    "category": "Bíblias",
-    "size": "3.4 MB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/Almeida1911.zip"
-  },
-  {
-    "name": "As Sagradas Letras",
-    "fileName": "ASL.zip",
-    "category": "Bíblias",
-    "size": "1.9 MB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/ASL.zip"
-  },
-  {
-    "name": "Targum de Jerusalém",
-    "fileName": "TRGJ.zip",
-    "category": "Bíblias",
-    "size": "552 KB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/TRGJ.zip"
-  },
-  {
-    "name": "Bíblia Thompson",
-    "fileName": "Thompson.zip",
-    "category": "Bíblias",
-    "size": "5.7 MB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/Thompson.zip"
-  },
-  {
-    "name": "Subtítulos NVI",
-    "fileName": "brNVI-s.subheadings.zip",
-    "category": "Subtítulos",
-    "size": "100 KB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/brNVI-s.subheadings.zip"
-  },
-  {
-    "name": "Subtítulos NTLH",
-    "fileName": "brNTLH-s.subheadings.zip",
-    "category": "Subtítulos",
-    "size": "100 KB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/brNTLH-s.subheadings.zip"
-  },
-  {
-    "name": "Subtítulos LTT",
-    "fileName": "LTT-s.subheadings.zip",
-    "category": "Subtítulos",
-    "size": "100 KB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/LTT-s.subheadings.zip"
-  },
-  {
-    "name": "Subtítulos PT",
-    "fileName": "PT-s.subheadings.zip",
-    "category": "Subtítulos",
-    "size": "100 KB",
-    "url": "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/PT-s.subheadings.zip"
-  }
+    {
+        "name":  "A Bíblia Livre",
+        "fileName":  "Livre.zip",
+        "path":  "bibles/Livre.zip",
+        "category":  "Bíblias",
+        "size":  "705 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/Livre.zip"
+    },
+    {
+        "name":  "a BÍBLIA para todos Edição Católica",
+        "fileName":  "BPT'09D.zip",
+        "path":  "bibles/BPT'09D.zip",
+        "category":  "Bíblias",
+        "size":  "2.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BPT'09D.zip"
+    },
+    {
+        "name":  "a BÍBLIA para todos Edição Comum, 2009 (BPT)",
+        "fileName":  "BPT.zip",
+        "path":  "bibles/BPT.zip",
+        "category":  "Bíblias",
+        "size":  "2.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BPT.zip"
+    },
+    {
+        "name":  "a BÍBLIA para todos Edição Comum, 2009 (BPT'09)",
+        "fileName":  "BPT'09.zip",
+        "path":  "bibles/BPT'09.zip",
+        "category":  "Bíblias",
+        "size":  "2.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BPT'09.zip"
+    },
+    {
+        "name":  "ACF+ (2011)",
+        "fileName":  "ACFs +.zip",
+        "path":  "bibles/ACFs +.zip",
+        "category":  "Bíblias",
+        "size":  "3.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ACFs%20%2B.zip"
+    },
+    {
+        "name":  "Almeida 1911",
+        "fileName":  "Almeida1911.zip",
+        "path":  "bibles/Almeida1911.zip",
+        "category":  "Bíblias",
+        "size":  "3.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/Almeida1911.zip"
+    },
+    {
+        "name":  "Almeida Corrigida Fiel, 2011",
+        "fileName":  "ACF'11.zip",
+        "path":  "bibles/ACF'11.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ACF'11.zip"
+    },
+    {
+        "name":  "Almeida Corrigida Fiel, 2011 + STRONG",
+        "fileName":  "ACF+.zip",
+        "path":  "bibles/ACF+.zip",
+        "category":  "Bíblias",
+        "size":  "1.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ACF%2B.zip"
+    },
+    {
+        "name":  "Almeida Edição Contemporânea - 1990 (AEC - 1990)",
+        "fileName":  "AEC - 1990.zip",
+        "path":  "bibles/AEC - 1990.zip",
+        "category":  "Bíblias",
+        "size":  "2.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/AEC%20-%201990.zip"
+    },
+    {
+        "name":  "Almeida Edição Contemporânea - 1990 (Bíblia Thompson)",
+        "fileName":  "Bíblia Thompson.zip",
+        "path":  "bibles/Bíblia Thompson.zip",
+        "category":  "Bíblias",
+        "size":  "5.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/B%C3%ADblia%20Thompson.zip"
+    },
+    {
+        "name":  "Almeida Revisada de Acordo com os Melhores Textos em Hebraico e Grego, 1967",
+        "fileName":  "ARM'67.zip",
+        "path":  "bibles/ARM'67.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ARM'67.zip"
+    },
+    {
+        "name":  "Almeida Revista e Atualizada, 1959",
+        "fileName":  "AA.zip",
+        "path":  "bibles/AA.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/AA.zip"
+    },
+    {
+        "name":  "Almeida Revista e Atualizada, 2010",
+        "fileName":  "ARA'10.zip",
+        "path":  "bibles/ARA'10.zip",
+        "category":  "Bíblias",
+        "size":  "2.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ARA'10.zip"
+    },
+    {
+        "name":  "Almeida Revista e Atualizada, com números Strong",
+        "fileName":  "𝗔𝗥𝗔+.zip",
+        "path":  "bibles/𝗔𝗥𝗔+.zip",
+        "category":  "Bíblias",
+        "size":  "2.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%94%2B.zip"
+    },
+    {
+        "name":  "Almeida Revista e Corrigida (Portugal), 2001",
+        "fileName":  "ARC.zip",
+        "path":  "bibles/ARC.zip",
+        "category":  "Bíblias",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ARC.zip"
+    },
+    {
+        "name":  "Almeida Revista e Corrigida, 2009",
+        "fileName":  "ARC'09.zip",
+        "path":  "bibles/ARC'09.zip",
+        "category":  "Bíblias",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ARC'09.zip"
+    },
+    {
+        "name":  "Almeida Revista e Corrigida, Anotada",
+        "fileName":  "ARCA.zip",
+        "path":  "bibles/ARCA.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ARCA.zip"
+    },
+    {
+        "name":  "ARC 1969 atualizado",
+        "fileName":  "ARC1969.zip",
+        "path":  "bibles/ARC1969.zip",
+        "category":  "Bíblias",
+        "size":  "1.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ARC1969.zip"
+    },
+    {
+        "name":  "As Imaculadas Escrituras - Canal Oficial t.me/MyBibleBrasil",
+        "fileName":  "AIE.zip",
+        "path":  "bibles/AIE.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/AIE.zip"
+    },
+    {
+        "name":  "As Sagradas Letras (ASL (2))",
+        "fileName":  "ASL (2).zip",
+        "path":  "bibles/ASL (2).zip",
+        "category":  "Bíblias",
+        "size":  "2.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ASL%20(2).zip"
+    },
+    {
+        "name":  "As Sagradas Letras (ASL)",
+        "fileName":  "ASL.zip",
+        "path":  "bibles/ASL.zip",
+        "category":  "Bíblias",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ASL.zip"
+    },
+    {
+        "name":  "Bíblia A Mensagem",
+        "fileName":  "Mens.zip",
+        "path":  "bibles/Mens.zip",
+        "category":  "Bíblias",
+        "size":  "2.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/Mens.zip"
+    },
+    {
+        "name":  "Bíblia Almeida Antiga",
+        "fileName":  "BAAW.zip",
+        "path":  "bibles/BAAW.zip",
+        "category":  "Bíblias",
+        "size":  "3.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BAAW.zip"
+    },
+    {
+        "name":  "Bíblia Almeida Raiz - Neywerson by Infiltrovat'",
+        "fileName":  "BARaiz.zip",
+        "path":  "bibles/BARaiz.zip",
+        "category":  "Bíblias",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BARaiz.zip"
+    },
+    {
+        "name":  "Bíblia Almeida Recebida, 2011",
+        "fileName":  "AR.zip",
+        "path":  "bibles/AR.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/AR.zip"
+    },
+    {
+        "name":  "Biblia Almeida Século 21",
+        "fileName":  "A21.zip",
+        "path":  "bibles/A21.zip",
+        "category":  "Bíblias",
+        "size":  "2.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/A21.zip"
+    },
+    {
+        "name":  "Bíblia Amplificada — 2020",
+        "fileName":  "AMP - 2020.zip",
+        "path":  "bibles/AMP - 2020.zip",
+        "category":  "Bíblias",
+        "size":  "2.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/AMP%20-%202020.zip"
+    },
+    {
+        "name":  "Bíblia Ave Maria",
+        "fileName":  "BAM.zip",
+        "path":  "bibles/BAM.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BAM.zip"
+    },
+    {
+        "name":  "Bíblia Ave-Maria, 1959",
+        "fileName":  "BAMD.zip",
+        "path":  "bibles/BAMD.zip",
+        "category":  "Bíblias",
+        "size":  "2.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BAMD.zip"
+    },
+    {
+        "name":  "Bíblia Brasileira de Estudo - Canal Oficial - t.me/MyBibleBrasil",
+        "fileName":  "BBEe.zip",
+        "path":  "bibles/BBEe.zip",
+        "category":  "Bíblias",
+        "size":  "3.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BBEe.zip"
+    },
+    {
+        "name":  "Bíblia CNBB (Nova Capa), 2002",
+        "fileName":  "CNBB.zip",
+        "path":  "bibles/CNBB.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/CNBB.zip"
+    },
+    {
+        "name":  "Bíblia de Estudo ACF - Canal Oficial - t.me/MyBibleBrasil",
+        "fileName":  "BEACF.zip",
+        "path":  "bibles/BEACF.zip",
+        "category":  "Bíblias",
+        "size":  "3.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BEACF.zip"
+    },
+    {
+        "name":  "Bíblia de Estudo ARA - Canal Oficial - t.me/MyBibleBrasil",
+        "fileName":  "BEARA.zip",
+        "path":  "bibles/BEARA.zip",
+        "category":  "Bíblias",
+        "size":  "2.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BEARA.zip"
+    },
+    {
+        "name":  "Bíblia de Estudo Defesa da Fé - Canal Oficial t.me/MyBibleBrasil",
+        "fileName":  "BEDF.zip",
+        "path":  "bibles/BEDF.zip",
+        "category":  "Bíblias",
+        "size":  "5.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BEDF.zip"
+    },
+    {
+        "name":  "Biblia de Estudo do Expositor",
+        "fileName":  "EXP. (BIBLIA DO EXPOSITOR).zip",
+        "path":  "bibles/EXP. (BIBLIA DO EXPOSITOR).zip",
+        "category":  "Bíblias",
+        "size":  "9.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/EXP.%20(BIBLIA%20DO%20EXPOSITOR).zip"
+    },
+    {
+        "name":  "Bíblia de Estudo LTT 2018",
+        "fileName":  "LTT'18.zip",
+        "path":  "bibles/LTT'18.zip",
+        "category":  "Bíblias",
+        "size":  "2.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/LTT'18.zip"
+    },
+    {
+        "name":  "Bíblia de Estudo Pentecostal, 2009",
+        "fileName":  "BdEP.zip",
+        "path":  "bibles/BdEP.zip",
+        "category":  "Bíblias",
+        "size":  "3.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BdEP.zip"
+    },
+    {
+        "name":  "Bíblia de Estudo Variantes Textuais - Canal Oficial t.me/MyBibleBrasil",
+        "fileName":  "BEVT.zip",
+        "path":  "bibles/BEVT.zip",
+        "category":  "Bíblias",
+        "size":  "4.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BEVT.zip"
+    },
+    {
+        "name":  "Bíblia de Jerusalém, 2002 (BJRD (2))",
+        "fileName":  "BJRD (2).zip",
+        "path":  "bibles/BJRD (2).zip",
+        "category":  "Bíblias",
+        "size":  "3.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BJRD%20(2).zip"
+    },
+    {
+        "name":  "Bíblia de Jerusalém, 2002 (BJRD)",
+        "fileName":  "BJRD.zip",
+        "path":  "bibles/BJRD.zip",
+        "category":  "Bíblias",
+        "size":  "3.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BJRD.zip"
+    },
+    {
+        "name":  "Bíblia de João Ferreira de Almeida, Edição de 1819",
+        "fileName":  "JFA'1819.zip",
+        "path":  "bibles/JFA'1819.zip",
+        "category":  "Bíblias",
+        "size":  "489 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/JFA'1819.zip"
+    },
+    {
+        "name":  "Biblia Hebraica Sêfer",
+        "fileName":  "BHSefer.zip",
+        "path":  "bibles/BHSefer.zip",
+        "category":  "Bíblias",
+        "size":  "1.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BHSefer.zip"
+    },
+    {
+        "name":  "Bíblia Instrutiva Prosperidade Verdadeira",
+        "fileName":  "ProVer.zip",
+        "path":  "bibles/ProVer.zip",
+        "category":  "Bíblias",
+        "size":  "3.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ProVer.zip"
+    },
+    {
+        "name":  "Bíblia Israelita Judaica Nazarena",
+        "fileName":  "BIJN.zip",
+        "path":  "bibles/BIJN.zip",
+        "category":  "Bíblias",
+        "size":  "1.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BIJN.zip"
+    },
+    {
+        "name":  "Bíblia King James Atualizada, 2001",
+        "fileName":  "KJA.zip",
+        "path":  "bibles/KJA.zip",
+        "category":  "Bíblias",
+        "size":  "2.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/KJA.zip"
+    },
+    {
+        "name":  "Bíblia King James Atualizada, 2008",
+        "fileName":  "KJA'08.zip",
+        "path":  "bibles/KJA'08.zip",
+        "category":  "Bíblias",
+        "size":  "2.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/KJA'08.zip"
+    },
+    {
+        "name":  "Bíblia King James Fiel - 1611",
+        "fileName":  "BKJFiel - 1611.zip",
+        "path":  "bibles/BKJFiel - 1611.zip",
+        "category":  "Bíblias",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BKJFiel%20-%201611.zip"
+    },
+    {
+        "name":  "Bíblia King James Fiel, 1611",
+        "fileName":  "𝗞𝗝𝗙.zip",
+        "path":  "bibles/𝗞𝗝𝗙.zip",
+        "category":  "Bíblias",
+        "size":  "2.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/%F0%9D%97%9E%F0%9D%97%9D%F0%9D%97%99.zip"
+    },
+    {
+        "name":  "Bíblia Literal do Texto Tradicional Anotada, 2009",
+        "fileName":  "LTT.zip",
+        "path":  "bibles/LTT.zip",
+        "category":  "Bíblias",
+        "size":  "2.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/LTT.zip"
+    },
+    {
+        "name":  "Bíblia Literal do Texto Tradicional, 2015",
+        "fileName":  "LTT'15.zip",
+        "path":  "bibles/LTT'15.zip",
+        "category":  "Bíblias",
+        "size":  "2.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/LTT'15.zip"
+    },
+    {
+        "name":  "Bíblia Livre - Nestle 1904",
+        "fileName":  "LivreN4.zip",
+        "path":  "bibles/LivreN4.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/LivreN4.zip"
+    },
+    {
+        "name":  "Bíblia Livre - Textus Receptus",
+        "fileName":  "LivreTR.zip",
+        "path":  "bibles/LivreTR.zip",
+        "category":  "Bíblias",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/LivreTR.zip"
+    },
+    {
+        "name":  "Bíblia Livros Apócrifos",
+        "fileName":  "BLAP.zip",
+        "path":  "bibles/BLAP.zip",
+        "category":  "Bíblias",
+        "size":  "3.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BLAP.zip"
+    },
+    {
+        "name":  "Bíblia Online SNT, Septuaginta + Novo Testamento, 2017 (BOLSNT)",
+        "fileName":  "BOLSNT.zip",
+        "path":  "bibles/BOLSNT.zip",
+        "category":  "Bíblias",
+        "size":  "1.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BOLSNT.zip"
+    },
+    {
+        "name":  "Bíblia Online SNT, Septuaginta + Novo Testamento, 2017 (LXX-Br)",
+        "fileName":  "LXX-Br.zip",
+        "path":  "bibles/LXX-Br.zip",
+        "category":  "Bíblias",
+        "size":  "1.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/LXX-Br.zip"
+    },
+    {
+        "name":  "Bíblia Padre Matos Soares 1956",
+        "fileName":  "PMS'1956.zip",
+        "path":  "bibles/PMS'1956.zip",
+        "category":  "Bíblias",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/PMS'1956.zip"
+    },
+    {
+        "name":  "Biblia Peshita Completa Novo Testamento",
+        "fileName":  "BPCNT.zip",
+        "path":  "bibles/BPCNT.zip",
+        "category":  "Bíblias",
+        "size":  "493 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BPCNT.zip"
+    },
+    {
+        "name":  "Bíblia Peshitta",
+        "fileName":  "Pesh-pt.zip",
+        "path":  "bibles/Pesh-pt.zip",
+        "category":  "Bíblias",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/Pesh-pt.zip"
+    },
+    {
+        "name":  "Bíblia Sagrada — Edição Pastoral, 1990",
+        "fileName":  "BEP.zip",
+        "path":  "bibles/BEP.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BEP.zip"
+    },
+    {
+        "name":  "Bíblia Sagrada, com números Strong",
+        "fileName":  "Bíblia+.zip",
+        "path":  "bibles/Bíblia+.zip",
+        "category":  "Bíblias",
+        "size":  "2.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/B%C3%ADblia%2B.zip"
+    },
+    {
+        "name":  "Bíblia Sagrada, Nova Versão Transformadora",
+        "fileName":  "NVT'21.zip",
+        "path":  "bibles/NVT'21.zip",
+        "category":  "Bíblias",
+        "size":  "2.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NVT'21.zip"
+    },
+    {
+        "name":  "Bíblia Sagrada, Nova Versão Transformadora, 2016",
+        "fileName":  "NVT.zip",
+        "path":  "bibles/NVT.zip",
+        "category":  "Bíblias",
+        "size":  "2.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NVT.zip"
+    },
+    {
+        "name":  "Bíblia Textual",
+        "fileName":  "BTX.zip",
+        "path":  "bibles/BTX.zip",
+        "category":  "Bíblias",
+        "size":  "2.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BTX.zip"
+    },
+    {
+        "name":  "Bíblia Thompson",
+        "fileName":  "Thompson.zip",
+        "path":  "bibles/Thompson.zip",
+        "category":  "Bíblias",
+        "size":  "5.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/Thompson.zip"
+    },
+    {
+        "name":  "Biblia Viva, 2002",
+        "fileName":  "VIVA.zip",
+        "path":  "bibles/VIVA.zip",
+        "category":  "Bíblias",
+        "size":  "2.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/VIVA.zip"
+    },
+    {
+        "name":  "Corrigida Fiel, 1753-1995",
+        "fileName":  "CF.zip",
+        "path":  "bibles/CF.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/CF.zip"
+    },
+    {
+        "name":  "Difusora Bíblica Franciscanos Capuchinhos",
+        "fileName":  "DBFC.zip",
+        "path":  "bibles/DBFC.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/DBFC.zip"
+    },
+    {
+        "name":  "DIFUSORA FREIS CAPUCHINHOS",
+        "fileName":  "DIF.zip",
+        "path":  "bibles/DIF.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/DIF.zip"
+    },
+    {
+        "name":  "Escritura Hebraica Restaurada - canal oficial - t.me/MyBibleBrasil",
+        "fileName":  "EHR.zip",
+        "path":  "bibles/EHR.zip",
+        "category":  "Bíblias",
+        "size":  "1.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/EHR.zip"
+    },
+    {
+        "name":  "f35 WP NT2 BETA BR",
+        "fileName":  "F35 WP NT2 BETA BR.zip",
+        "path":  "bibles/F35 WP NT2 BETA BR.zip",
+        "category":  "Bíblias",
+        "size":  "444 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/F35%20WP%20NT2%20BETA%20BR.zip"
+    },
+    {
+        "name":  "King James 3 - The Literal Translation, 2005",
+        "fileName":  "KJ3.zip",
+        "path":  "bibles/KJ3.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/KJ3.zip"
+    },
+    {
+        "name":  "KJ Fiel",
+        "fileName":  "KJFiel.zip",
+        "path":  "bibles/KJFiel.zip",
+        "category":  "Bíblias",
+        "size":  "2.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/KJFiel.zip"
+    },
+    {
+        "name":  "Livro de Enoque - Livro Apócrifo",
+        "fileName":  "EN.zip",
+        "path":  "bibles/EN.zip",
+        "category":  "Bíblias",
+        "size":  "97 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/EN.zip"
+    },
+    {
+        "name":  "NAA - Nova Almeida Atualizada - Grupo Telegram t.me/MyBibleBrasil",
+        "fileName":  "TR_NAA.zip",
+        "path":  "bibles/TR_NAA.zip",
+        "category":  "Bíblias",
+        "size":  "31.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/TR_NAA.zip"
+    },
+    {
+        "name":  "Nova Almeida Atualizada, 2017",
+        "fileName":  "NAA.zip",
+        "path":  "bibles/NAA.zip",
+        "category":  "Bíblias",
+        "size":  "2.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NAA.zip"
+    },
+    {
+        "name":  "Nova Bíblia Viva, 2007",
+        "fileName":  "NBV'07.zip",
+        "path":  "bibles/NBV'07.zip",
+        "category":  "Bíblias",
+        "size":  "2.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NBV'07.zip"
+    },
+    {
+        "name":  "Nova Tradução na Linguagem de Hoje, 2000 (BRSL)",
+        "fileName":  "BRSL.zip",
+        "path":  "bibles/BRSL.zip",
+        "category":  "Bíblias",
+        "size":  "3.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BRSL.zip"
+    },
+    {
+        "name":  "Nova Tradução na Linguagem de Hoje, 2000 (NTLH)",
+        "fileName":  "NTLH.zip",
+        "path":  "bibles/NTLH.zip",
+        "category":  "Bíblias",
+        "size":  "2.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NTLH.zip"
+    },
+    {
+        "name":  "Nova Versão Internacional",
+        "fileName":  "NVI-pt.zip",
+        "path":  "bibles/NVI-pt.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NVI-pt.zip"
+    },
+    {
+        "name":  "Nova Versão Internacional - Português",
+        "fileName":  "NVI2023BR.zip",
+        "path":  "bibles/NVI2023BR.zip",
+        "category":  "Bíblias",
+        "size":  "2.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NVI2023BR.zip"
+    },
+    {
+        "name":  "Nova Versão Internacional, 2011",
+        "fileName":  "NVI-br.zip",
+        "path":  "bibles/NVI-br.zip",
+        "category":  "Bíblias",
+        "size":  "2.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NVI-br.zip"
+    },
+    {
+        "name":  "Novo Testamento — Francisco A. F. Macedo",
+        "fileName":  "NTFM—2004.zip",
+        "path":  "bibles/NTFM—2004.zip",
+        "category":  "Bíblias",
+        "size":  "997 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NTFM%E2%80%942004.zip"
+    },
+    {
+        "name":  "Novo Testamento — Tradução para Tradutores",
+        "fileName":  "NTTpT.zip",
+        "path":  "bibles/NTTpT.zip",
+        "category":  "Bíblias",
+        "size":  "1004 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NTTpT.zip"
+    },
+    {
+        "name":  "Novo Testamento Judaico",
+        "fileName":  "NTJud.zip",
+        "path":  "bibles/NTJud.zip",
+        "category":  "Bíblias",
+        "size":  "459 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NTJud.zip"
+    },
+    {
+        "name":  "Novo Testamento Paralelo",
+        "fileName":  "NTP.zip",
+        "path":  "bibles/NTP.zip",
+        "category":  "Bíblias",
+        "size":  "1.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/NTP.zip"
+    },
+    {
+        "name":  "Novo Testamento: Versão Fácil de Ler, 1999",
+        "fileName":  "VFL.zip",
+        "path":  "bibles/VFL.zip",
+        "category":  "Bíblias",
+        "size":  "602 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/VFL.zip"
+    },
+    {
+        "name":  "O Livro",
+        "fileName":  "OL-pt.zip",
+        "path":  "bibles/OL-pt.zip",
+        "category":  "Bíblias",
+        "size":  "2.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/OL-pt.zip"
+    },
+    {
+        "name":  "Padre Figueiredo 1821",
+        "fileName":  "BPF'1821.zip",
+        "path":  "bibles/BPF'1821.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BPF'1821.zip"
+    },
+    {
+        "name":  "Portuguese Corrigida Fiel (1753/1995)",
+        "fileName":  "PCF.zip",
+        "path":  "bibles/PCF.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/PCF.zip"
+    },
+    {
+        "name":  "Portuguese Version",
+        "fileName":  "POR.zip",
+        "path":  "bibles/POR.zip",
+        "category":  "Bíblias",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/POR.zip"
+    },
+    {
+        "name":  "Primeira Tradução da Bíblia de Almeida, publicada em 1681, contendo apenas o ...",
+        "fileName":  "JFA'1681.zip",
+        "path":  "bibles/JFA'1681.zip",
+        "category":  "Bíblias",
+        "size":  "384 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/JFA'1681.zip"
+    },
+    {
+        "name":  "RB ACF Recursos Avançados - Grupo Telegram t.me/MyBibleBrasil",
+        "fileName":  "TR_ACF.zip",
+        "path":  "bibles/TR_ACF.zip",
+        "category":  "Bíblias",
+        "size":  "102.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/TR_ACF.zip"
+    },
+    {
+        "name":  "Reina Valera em Portugues — 2009",
+        "fileName":  "RVP2009.zip",
+        "path":  "bibles/RVP2009.zip",
+        "category":  "Bíblias",
+        "size":  "3.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/RVP2009.zip"
+    },
+    {
+        "name":  "Revista e Atualizada Interlinear",
+        "fileName":  "ARAi+.zip",
+        "path":  "bibles/ARAi+.zip",
+        "category":  "Bíblias",
+        "size":  "4.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/ARAi%2B.zip"
+    },
+    {
+        "name":  "Targum de Jerusalém",
+        "fileName":  "TRGJ.zip",
+        "path":  "bibles/TRGJ.zip",
+        "category":  "Bíblias",
+        "size":  "552 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/TRGJ.zip"
+    },
+    {
+        "name":  "Tradução Brasileira, 2010",
+        "fileName":  "TB'10.zip",
+        "path":  "bibles/TB'10.zip",
+        "category":  "Bíblias",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/TB'10.zip"
+    },
+    {
+        "name":  "Tradução de João Ferreira de Almeida (Versão Revista e Atualizada, grafia bra... (JFABR+)",
+        "fileName":  "JFABR+.zip",
+        "path":  "bibles/JFABR+.zip",
+        "category":  "Bíblias",
+        "size":  "2.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/JFABR%2B.zip"
+    },
+    {
+        "name":  "Tradução de João Ferreira de Almeida (Versão Revista e Atualizada, grafia bra... (JFA-br+)",
+        "fileName":  "JFA-br+.zip",
+        "path":  "bibles/JFA-br+.zip",
+        "category":  "Bíblias",
+        "size":  "2.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/JFA-br%2B.zip"
+    },
+    {
+        "name":  "Tradução do Novo Mundo 1986",
+        "fileName":  "TNM1983.zip",
+        "path":  "bibles/TNM1983.zip",
+        "category":  "Bíblias",
+        "size":  "2.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/TNM1983.zip"
+    },
+    {
+        "name":  "Tradução do Novo Mundo 2015 (T.J.)",
+        "fileName":  "TNM2015.zip",
+        "path":  "bibles/TNM2015.zip",
+        "category":  "Bíblias",
+        "size":  "2.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/TNM2015.zip"
+    },
+    {
+        "name":  "Tradução do Padre Antonio Pereira de Figueiredo",
+        "fileName":  "BPF.zip",
+        "path":  "bibles/BPF.zip",
+        "category":  "Bíblias",
+        "size":  "1.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/BPF.zip"
+    },
+    {
+        "name":  "Tradução O Livro em Português Comum",
+        "fileName":  "OL.zip",
+        "path":  "bibles/OL.zip",
+        "category":  "Bíblias",
+        "size":  "2.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/OL.zip"
+    },
+    {
+        "name":  "YAH Bible, Revista e Atualizada Interlinear (Estudo das Raízes Hebraicas)",
+        "fileName":  "YAH+.zip",
+        "path":  "bibles/YAH+.zip",
+        "category":  "Bíblias",
+        "size":  "4.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/bibles/YAH%2B.zip"
+    },
+    {
+        "name":  "A Bíblia de Cambridge para Escolas e Faculdades AT/NT - Canal Oficial t.me/My...",
+        "fileName":  "Cambridge.zip",
+        "path":  "commentaries/Cambridge.zip",
+        "category":  "Comentários",
+        "size":  "15.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Cambridge.zip"
+    },
+    {
+        "name":  "A Mensagem de Gálatas - Grupo Oficial no Telegram t.me/MyBibleBrasil",
+        "fileName":  "AMG.commentaries.zip",
+        "path":  "commentaries/AMG.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "2.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/AMG.commentaries.zip"
+    },
+    {
+        "name":  "Almeida Corrigida Fiel, 2011 + STRONG",
+        "fileName":  "JSutcliffe-pt.commentaries.zip",
+        "path":  "commentaries/JSutcliffe-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/JSutcliffe-pt.commentaries.zip"
+    },
+    {
+        "name":  "Apocalipse Versículo Por Versículo, 2005",
+        "fileName":  "AVPV-c.commentaries.zip",
+        "path":  "commentaries/AVPV-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "276 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/AVPV-c.commentaries.zip"
+    },
+    {
+        "name":  "Bible Pic - Grupo Oficial no Telegram @MyBibleBrasil",
+        "fileName":  "Bible Pic.commentaries.zip",
+        "path":  "commentaries/Bible Pic.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "99.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Bible%20Pic.commentaries.zip"
+    },
+    {
+        "name":  "Biblia Aplicação pessoal - Grupo Telegram t.me/MyBibleBrasil",
+        "fileName":  "BAPT.commentaries.zip",
+        "path":  "commentaries/BAPT.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BAPT.commentaries.zip"
+    },
+    {
+        "name":  "Bíblia Apologética de Estudo",
+        "fileName":  "Apologética.commentaries.zip",
+        "path":  "commentaries/Apologética.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "628 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Apolog%C3%A9tica.commentaries.zip"
+    },
+    {
+        "name":  "Bíblia Arqueológica - Grupo Telegram t.me/MyBibleBrasil",
+        "fileName":  "BEA-nvi.commentaries.zip",
+        "path":  "commentaries/BEA-nvi.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "23.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BEA-nvi.commentaries.zip"
+    },
+    {
+        "name":  "Bíblia de Estudo do Discipulado - Grupo Telegram t.me/MyBibleBrasil",
+        "fileName":  "CBED.commentaries.zip",
+        "path":  "commentaries/CBED.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "646 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/CBED.commentaries.zip"
+    },
+    {
+        "name":  "Bíblia de Estudo LTT 2018",
+        "fileName":  "NTTpT.commentaries.zip",
+        "path":  "commentaries/NTTpT.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "45 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/NTTpT.commentaries.zip"
+    },
+    {
+        "name":  "Biblia de Estudo NTLH - Grupo Oficial no Telegram @MyBibleBrasil",
+        "fileName":  "BE NTLH.commentaries.zip",
+        "path":  "commentaries/BE NTLH.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BE%20NTLH.commentaries.zip"
+    },
+    {
+        "name":  "Bíblia de Estudos DAKE Cmt completo Gn a Ap",
+        "fileName":  "Dake Gn-Ap.commentaries.zip",
+        "path":  "commentaries/Dake Gn-Ap.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "6.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Dake%20Gn-Ap.commentaries.zip"
+    },
+    {
+        "name":  "Bíblia Judaica NT",
+        "fileName":  "BJNT.commentaries.SQLite3.zip",
+        "path":  "commentaries/BJNT.commentaries.SQLite3.zip",
+        "category":  "Comentários",
+        "size":  "1.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BJNT.commentaries.SQLite3.zip"
+    },
+    {
+        "name":  "Bíblia Livre - Nestle 1904",
+        "fileName":  "LivreN4.commentaries.zip",
+        "path":  "commentaries/LivreN4.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "71 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/LivreN4.commentaries.zip"
+    },
+    {
+        "name":  "Bíblia Reina Valera Notas - Grupo Telegram t.me/MyBibleBrasil",
+        "fileName":  "BRVN.commentaries.zip",
+        "path":  "commentaries/BRVN.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BRVN.commentaries.zip"
+    },
+    {
+        "name":  "Bíblia Sagrada, Nova Versão Transformadora, 2016",
+        "fileName":  "NVT.commentaries.zip",
+        "path":  "commentaries/NVT.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "172 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/NVT.commentaries.zip"
+    },
+    {
+        "name":  "C:Wordíblia de Estudo Rota 66",
+        "fileName":  "BER66.commentaries.zip",
+        "path":  "commentaries/BER66.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BER66.commentaries.zip"
+    },
+    {
+        "name":  "Cmt da Bíblia Revelada Di Nelson (Ômega e Alfa)",
+        "fileName":  "BíbliaRevelada-c.commentaries..zip",
+        "path":  "commentaries/BíbliaRevelada-c.commentaries..zip",
+        "category":  "Comentários",
+        "size":  "4.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/B%C3%ADbliaRevelada-c.commentaries..zip"
+    },
+    {
+        "name":  "Códigos de Análises Morfológicas",
+        "fileName":  "OpenAT_NT Interlinear+(05-05-2024).zip",
+        "path":  "commentaries/OpenAT_NT Interlinear+(05-05-2024).zip",
+        "category":  "Comentários",
+        "size":  "16.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/OpenAT_NT%20Interlinear%2B(05-05-2024).zip"
+    },
+    {
+        "name":  "Comentário - NVI (FFBruce) (brNVI-c.commentaries)",
+        "fileName":  "brNVI-c.commentaries.zip",
+        "path":  "commentaries/brNVI-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "3.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/brNVI-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário - NVI (FFBruce) (NVI'cmt.commentaries)",
+        "fileName":  "NVI'cmt.commentaries.zip",
+        "path":  "commentaries/NVI'cmt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "4.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/NVI'cmt.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Atos AT e NT",
+        "fileName":  "Comentário Atos AT e NT.zip",
+        "path":  "commentaries/Comentário Atos AT e NT.zip",
+        "category":  "Comentários",
+        "size":  "3.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Coment%C3%A1rio%20Atos%20AT%20e%20NT.zip"
+    },
+    {
+        "name":  "Comentário Biblia de Genebra",
+        "fileName":  "Genebra.commentaries.zip",
+        "path":  "commentaries/Genebra.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "2.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Genebra.commentaries.zip"
+    },
+    {
+        "name":  "Comentario Biblia Jerusalén (NBJ1998)",
+        "fileName":  "NBJ'98-c.commentaries.zip",
+        "path":  "commentaries/NBJ'98-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/NBJ'98-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico Adventista",
+        "fileName":  "CBA-pt.commentaries.zip",
+        "path":  "commentaries/CBA-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "7.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/CBA-pt.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico Africano",
+        "fileName":  "BiblicoAfricano-c.commentaries.zip",
+        "path":  "commentaries/BiblicoAfricano-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "3.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BiblicoAfricano-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico Beacon (C.B. Beacon.commentaries)",
+        "fileName":  "C.B. Beacon.commentaries.zip",
+        "path":  "commentaries/C.B. Beacon.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "5.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/C.B.%20Beacon.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico Beacon (CBB-pt.commentaries)",
+        "fileName":  "CBB-pt.commentaries.zip",
+        "path":  "commentaries/CBB-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "5.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/CBB-pt.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Biblico DAKE. Notas criadas por Finis Dake.",
+        "fileName":  "DAKE.commentaries.zip",
+        "path":  "commentaries/DAKE.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/DAKE.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico de John Trapp",
+        "fileName":  "JohnTrapp-c.commentaries.zip",
+        "path":  "commentaries/JohnTrapp-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "10.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/JohnTrapp-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico Devocional (NT) - Grupo Oficial no Telegram \u003e @MyBibleBrasil",
+        "fileName":  "CDD NT.commentaries.zip",
+        "path":  "commentaries/CDD NT.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "2.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/CDD%20NT.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico ILustrado",
+        "fileName":  "C.B. ILustrado.commentaries.zip",
+        "path":  "commentaries/C.B. ILustrado.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "3.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/C.B.%20ILustrado.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico Moody",
+        "fileName":  "CBM-pt.commentaries.zip",
+        "path":  "commentaries/CBM-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "3.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/CBM-pt.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico NVI - Antigo e Novo Testamento - F. F. Bruce",
+        "fileName":  "NVI-pt-c.commentaries.zip",
+        "path":  "commentaries/NVI-pt-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "3.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/NVI-pt-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico Popular",
+        "fileName":  "BiblicoPopular-c.commentaries.zip",
+        "path":  "commentaries/BiblicoPopular-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "9.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BiblicoPopular-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico Rota 66 - Neywerson by Infiltrovat'",
+        "fileName":  "CBRota66-c.commentaries.zip",
+        "path":  "commentaries/CBRota66-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/CBRota66-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Bíblico Wesleyano",
+        "fileName":  "Wesley-pt.commentaries.zip",
+        "path":  "commentaries/Wesley-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "6.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Wesley-pt.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Champlin Completo AT e NT",
+        "fileName":  "Champlin-c.commentaries.zip",
+        "path":  "commentaries/Champlin-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "37.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Champlin-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Cultura Cristã NT",
+        "fileName":  "Culturacrista-c.commentaries.zip",
+        "path":  "commentaries/Culturacrista-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "10.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Culturacrista-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário da Bíblia de Estudo Almeida",
+        "fileName":  "BdEA-c.commentaries.zip",
+        "path":  "commentaries/BdEA-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BdEA-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Da Bíblia de Estudo Plenitude",
+        "fileName":  "Plenitude-c.commentaries.zip",
+        "path":  "commentaries/Plenitude-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Plenitude-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário da Bíblia do Pregador Pentecostal",
+        "fileName":  "Preg-c.commentaries.zip",
+        "path":  "commentaries/Preg-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "563 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Preg-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário da Bíblia English Standard Version",
+        "fileName":  "brESV-c.commentaries.zip",
+        "path":  "commentaries/brESV-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "3.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/brESV-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário da Bíblia English Standard Version - Grupo Telegram t.me/MyBibleBr...",
+        "fileName":  "ESV-pt-c.commentaries.zip",
+        "path":  "commentaries/ESV-pt-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "24.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/ESV-pt-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário da Biblia SHEDD",
+        "fileName":  "SHEDD.commentaries.zip",
+        "path":  "commentaries/SHEDD.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/SHEDD.commentaries.zip"
+    },
+    {
+        "name":  "Comentário de Daniel e Apocalipse - Uriah Smith",
+        "fileName":  "DanielApocalipseSmith-c.commentaries.zip",
+        "path":  "commentaries/DanielApocalipseSmith-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "517 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/DanielApocalipseSmith-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário de Ellicott",
+        "fileName":  "Ellicott-c.commentaries.zip",
+        "path":  "commentaries/Ellicott-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "9.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Ellicott-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário de Francis Davidson",
+        "fileName":  "FDavdson.commentaries.zip",
+        "path":  "commentaries/FDavdson.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "2.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/FDavdson.commentaries.zip"
+    },
+    {
+        "name":  "Comentário de Peter Pett sobre a Bíblia",
+        "fileName":  "PPett-pt.commentaries.zip",
+        "path":  "commentaries/PPett-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "13.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/PPett-pt.commentaries.zip"
+    },
+    {
+        "name":  "Comentário de Warren W. Wiersbe - Conciso",
+        "fileName":  "Wiersbe.commentaries.zip",
+        "path":  "commentaries/Wiersbe.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Wiersbe.commentaries.zip"
+    },
+    {
+        "name":  "Comentário do Evangelho de João por John Gill",
+        "fileName":  "JGill-pt.commentaries.zip",
+        "path":  "commentaries/JGill-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "237 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/JGill-pt.commentaries.zip"
+    },
+    {
+        "name":  "Comentário do N.T. Barclay",
+        "fileName":  "BarklayNT.commentaries.zip",
+        "path":  "commentaries/BarklayNT.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "3.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BarklayNT.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Esperança Novo Testamento",
+        "fileName":  "EsperancaNT-c.commentaries.zip",
+        "path":  "commentaries/EsperancaNT-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "7.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/EsperancaNT-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Hebreus - Grupo Oficial no Telegram @MyBibleBrasil",
+        "fileName":  "SCBH.commentaries.zip",
+        "path":  "commentaries/SCBH.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/SCBH.commentaries.zip"
+    },
+    {
+        "name":  "Comentário John Macarthur - NT",
+        "fileName":  "MacartNT.commentaries.zip",
+        "path":  "commentaries/MacartNT.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "11.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/MacartNT.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Série Cultura Bíblica",
+        "fileName":  "Culturabiblica-c.commentaries.zip",
+        "path":  "commentaries/Culturabiblica-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "11.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Culturabiblica-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentário Vida Nova - Grupo Oficial no Telegram \u003e @MyBibleBrasil",
+        "fileName":  "CVN.commentaries.zip",
+        "path":  "commentaries/CVN.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "2.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/CVN.commentaries.zip"
+    },
+    {
+        "name":  "Comentário_Baker's_NT",
+        "fileName":  "CBakerNT.commentaries.SQLite3.zip",
+        "path":  "commentaries/CBakerNT.commentaries.SQLite3.zip",
+        "category":  "Comentários",
+        "size":  "8.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/CBakerNT.commentaries.SQLite3.zip"
+    },
+    {
+        "name":  "Comentário_NCIAT",
+        "fileName":  "NCIAT_BR.commentaries.SQLite3.zip",
+        "path":  "commentaries/NCIAT_BR.commentaries.SQLite3.zip",
+        "category":  "Comentários",
+        "size":  "19.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/NCIAT_BR.commentaries.SQLite3.zip"
+    },
+    {
+        "name":  "Comentário_NCINT",
+        "fileName":  "NCINT_BR.commentaries.SQLite3.zip",
+        "path":  "commentaries/NCINT_BR.commentaries.SQLite3.zip",
+        "category":  "Comentários",
+        "size":  "16.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/NCINT_BR.commentaries.SQLite3.zip"
+    },
+    {
+        "name":  "Comentários \"Horae Homileticae\" de Charles Simeon",
+        "fileName":  "CSimeon-pt.commentaries.zip",
+        "path":  "commentaries/CSimeon-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "10.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/CSimeon-pt.commentaries.zip"
+    },
+    {
+        "name":  "Comentários da Bíblia Diario Viver",
+        "fileName":  "Viver-c.commentaries.zip",
+        "path":  "commentaries/Viver-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "2.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Viver-c.commentaries.zip"
+    },
+    {
+        "name":  "Comentários da Bíblia Shedd",
+        "fileName":  "Shedd-vs.commentaries.zip",
+        "path":  "commentaries/Shedd-vs.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Shedd-vs.commentaries.zip"
+    },
+    {
+        "name":  "Comentários devocionais Charles H. Spurgeon + Chambers",
+        "fileName":  "Spurgeon+.commentaries.zip",
+        "path":  "commentaries/Spurgeon+.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Spurgeon%2B.commentaries.zip"
+    },
+    {
+        "name":  "Comentários dos Evangelhos - John Charles Ryle - Traduzido via Google Transla...",
+        "fileName":  "JCRyle-pt.commentaries.zip",
+        "path":  "commentaries/JCRyle-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "1.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/JCRyle-pt.commentaries.zip"
+    },
+    {
+        "name":  "Comentários e notas críticas de Adam Clarke sobre a Bíblia",
+        "fileName":  "AClarke-pt.commentaries.zip",
+        "path":  "commentaries/AClarke-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "7.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/AClarke-pt.commentaries.zip"
+    },
+    {
+        "name":  "Comentários Expositivos Hagnos",
+        "fileName":  "Hagnos-c.commentaries.zip",
+        "path":  "commentaries/Hagnos-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "5.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Hagnos-c.commentaries.zip"
+    },
+    {
+        "name":  "Daniel e Apocalipse - Grupo Oficial no Telegram @MyBibleBrasil",
+        "fileName":  "DEA.commentaries.zip",
+        "path":  "commentaries/DEA.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "4.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/DEA.commentaries.zip"
+    },
+    {
+        "name":  "Daniel Versículo por Versículo - Severino Pedro da Silva",
+        "fileName":  "DanielVersiculoPorVersiculo.c.commentaries.zip",
+        "path":  "commentaries/DanielVersiculoPorVersiculo.c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "208 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/DanielVersiculoPorVersiculo.c.commentaries.zip"
+    },
+    {
+        "name":  "Família 35Br WP",
+        "fileName":  "F35 PT-BR.zip",
+        "path":  "commentaries/F35 PT-BR.zip",
+        "category":  "Comentários",
+        "size":  "1.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/F35%20PT-BR.zip"
+    },
+    {
+        "name":  "Guia Devocional_NT - Grupo Oficial no Telegram @MyBibleBrasil",
+        "fileName":  "GDCBNT.commentaries.zip",
+        "path":  "commentaries/GDCBNT.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "802 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/GDCBNT.commentaries.zip"
+    },
+    {
+        "name":  "Holman Gn-Lc",
+        "fileName":  "Holman_Gn-Lc.commentaries.zip",
+        "path":  "commentaries/Holman_Gn-Lc.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "39.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Holman_Gn-Lc.commentaries.zip"
+    },
+    {
+        "name":  "Lucas - O Evangelho em Carne e Osso - Flavio Gouvea de Oliveira",
+        "fileName":  "Lucas-c.commentaries.zip",
+        "path":  "commentaries/Lucas-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "725 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/Lucas-c.commentaries.zip"
+    },
+    {
+        "name":  "Manual de Duvidas Enigmas e Contradições Bíblicas",
+        "fileName":  "MDuvidas.commentaries.zip",
+        "path":  "commentaries/MDuvidas.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "578 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/MDuvidas.commentaries.zip"
+    },
+    {
+        "name":  "Matthew Henry",
+        "fileName":  "MatthewHenry-c.zip",
+        "path":  "commentaries/MatthewHenry-c.zip",
+        "category":  "Comentários",
+        "size":  "15.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/MatthewHenry-c.zip"
+    },
+    {
+        "name":  "Mensagem dos Profetas Menores",
+        "fileName":  "PrfMenor.commentaries.zip",
+        "path":  "commentaries/PrfMenor.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "110 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/PrfMenor.commentaries.zip"
+    },
+    {
+        "name":  "Notas de Albert Barnes sobre a Bíblia",
+        "fileName":  "ABarnes-pt.commentaries.zip",
+        "path":  "commentaries/ABarnes-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "13.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/ABarnes-pt.commentaries.zip"
+    },
+    {
+        "name":  "Novum Testamentum Graece, Nestle-Aland 28",
+        "fileName":  "NA28.zip",
+        "path":  "commentaries/NA28.zip",
+        "category":  "Comentários",
+        "size":  "609 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/NA28.zip"
+    },
+    {
+        "name":  "NVI Bíblia Teológica_D_A_Carson",
+        "fileName":  "NVIBT.commentaries.SQLite3.zip",
+        "path":  "commentaries/NVIBT.commentaries.SQLite3.zip",
+        "category":  "Comentários",
+        "size":  "15.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/NVIBT.commentaries.SQLite3.zip"
+    },
+    {
+        "name":  "O Comentário Homilético Completo do Pregador",
+        "fileName":  "CHomil-pt.commentaries.zip",
+        "path":  "commentaries/CHomil-pt.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "29.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/CHomil-pt.commentaries.zip"
+    },
+    {
+        "name":  "O Evangelho de Marcos - Grupo Oficial no Telegram \u003e @MyBibleBrasil",
+        "fileName":  "EDM.commentaries.zip",
+        "path":  "commentaries/EDM.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "5.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/EDM.commentaries.zip"
+    },
+    {
+        "name":  "O Evangelho do Espírito Santo - Grupo Telegram t.me/MyBibleBrasil",
+        "fileName":  "AEDES.commentaries.zip",
+        "path":  "commentaries/AEDES.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "513 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/AEDES.commentaries.zip"
+    },
+    {
+        "name":  "Os Tesouros de Davi - Comentários dos Salmos por Charles Spurgeon",
+        "fileName":  "OsTesourosDeDavi-c.commentaries.zip",
+        "path":  "commentaries/OsTesourosDeDavi-c.commentaries.zip",
+        "category":  "Comentários",
+        "size":  "6.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/OsTesourosDeDavi-c.commentaries.zip"
+    },
+    {
+        "name":  "Plantas, Animais e Objetos da bíblia - Canal oficial @mybiblebrasil",
+        "fileName":  "BPAO.zip",
+        "path":  "commentaries/BPAO.zip",
+        "category":  "Comentários",
+        "size":  "77.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/commentaries/BPAO.zip"
+    },
+    {
+        "name":  "Almeida Links",
+        "fileName":  "AlmLink.dictionary.zip",
+        "path":  "dictionary/AlmLink.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "432 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/AlmLink.dictionary.zip"
+    },
+    {
+        "name":  "Babylon Portuguese-English",
+        "fileName":  "pt-en-B.dictionary.zip",
+        "path":  "dictionary/pt-en-B.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "2.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/pt-en-B.dictionary.zip"
+    },
+    {
+        "name":  "Bible Maps",
+        "fileName":  "BMaps.dictionary.zip",
+        "path":  "dictionary/BMaps.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "8.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/BMaps.dictionary.zip"
+    },
+    {
+        "name":  "Bíblia de Estudo Pentecostal, 2009",
+        "fileName":  "BdEP.dictionary.zip",
+        "path":  "dictionary/BdEP.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "386 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/BdEP.dictionary.zip"
+    },
+    {
+        "name":  "BÍBLIA GREGO kOINE: Septuaginta, Novo Testamento, Apócrifos (Léxico)",
+        "fileName":  "Barach_br-m.dictionary.zip",
+        "path":  "dictionary/Barach_br-m.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "7.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Barach_br-m.dictionary.zip"
+    },
+    {
+        "name":  "Bíblia Thompson",
+        "fileName":  "Thompson.zip",
+        "path":  "dictionary/Thompson.zip",
+        "category":  "Dicionários",
+        "size":  "3.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Thompson.zip"
+    },
+    {
+        "name":  "Concordância Exaustiva de Strong (Aprimorada)",
+        "fileName":  "SECE_br.dictionary.zip",
+        "path":  "dictionary/SECE_br.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "2.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/SECE_br.dictionary.zip"
+    },
+    {
+        "name":  "Definições Doutrinais - Bruce Anstey",
+        "fileName":  "Anstey.dictionary.zip",
+        "path":  "dictionary/Anstey.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "551 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Anstey.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário Biblíco Conciso George Morrish",
+        "fileName":  "DBCONCISO.dictionary.zip",
+        "path":  "dictionary/DBCONCISO.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "10.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/DBCONCISO.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário Bíblico Easton - Matthew George Easton",
+        "fileName":  "Easton.dictionary.zip",
+        "path":  "dictionary/Easton.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "1.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Easton.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário Bíblico Strong",
+        "fileName":  "Str-pt.dictionary.zip",
+        "path":  "dictionary/Str-pt.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "1.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Str-pt.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário Bíblico Universal - A. R. Buckland e Lukyn Williams",
+        "fileName":  "Universal.dictionary.zip",
+        "path":  "dictionary/Universal.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "1.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Universal.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário Bíblico Wycliffe",
+        "fileName":  "Wycliffe.dictionary.zip",
+        "path":  "dictionary/Wycliffe.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "4.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Wycliffe.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário da Bíblia de Almeida",
+        "fileName":  "Almeida.dictionary.zip",
+        "path":  "dictionary/Almeida.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "469 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Almeida.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário de Jesus e Evangelhos",
+        "fileName":  "Jesus.dictionary.zip",
+        "path":  "dictionary/Jesus.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "235 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Jesus.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário grego do Novo Testamento de Bill Mounce's (MncNT_br.dictionary)",
+        "fileName":  "MncNT_br.dictionary.zip",
+        "path":  "dictionary/MncNT_br.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "1.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/MncNT_br.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário grego do Novo Testamento de Bill Mounce's (MncNT_br-m.dictionary)",
+        "fileName":  "MncNT_br-m.dictionary.zip",
+        "path":  "dictionary/MncNT_br-m.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "791 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/MncNT_br-m.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário Houaiss",
+        "fileName":  "Houaiss.dictionary.zip",
+        "path":  "dictionary/Houaiss.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "23.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Houaiss.dictionary.zip"
+    },
+    {
+        "name":  "Dicionário Ilustrado da Bíblia - Canal Oficial t.me/MyBibleBrasil",
+        "fileName":  "DIB.dictionary.zip",
+        "path":  "dictionary/DIB.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "8.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/DIB.dictionary.zip"
+    },
+    {
+        "name":  "Dicionario Portugues",
+        "fileName":  "Portu.dictionary.zip",
+        "path":  "dictionary/Portu.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "2.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Portu.dictionary.zip"
+    },
+    {
+        "name":  "Enciclopédia Ilúmina Gold",
+        "fileName":  "IluminaGold.dictionary.zip",
+        "path":  "dictionary/IluminaGold.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "757 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/IluminaGold.dictionary.zip"
+    },
+    {
+        "name":  "Escatologia - Grupo Telegram t.me/MyBibleBrasil",
+        "fileName":  "DIE.dictionary.zip",
+        "path":  "dictionary/DIE.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "383 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/DIE.dictionary.zip"
+    },
+    {
+        "name":  "ESTUDOS DA BÍBLIA PENTECOSTAL",
+        "fileName":  "EBP.dictionary.zip",
+        "path":  "dictionary/EBP.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "3.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/EBP.dictionary.zip"
+    },
+    {
+        "name":  "Formas de palavras em português",
+        "fileName":  "pt.dictionary.zip",
+        "path":  "dictionary/pt.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "1.4 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/pt.dictionary.zip"
+    },
+    {
+        "name":  "Jesus e os evangelhos - Grupo Telegram t.me/MyBibleBrasil",
+        "fileName":  "JEEOE.dictionary.zip",
+        "path":  "dictionary/JEEOE.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "223 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/JEEOE.dictionary.zip"
+    },
+    {
+        "name":  "Léxico Hebraico e Caldeu de Gesenius - Canal oficial @mybiblebrasil",
+        "fileName":  "SC_Ges_br.dictionary.SQLite3.zip",
+        "path":  "dictionary/SC_Ges_br.dictionary.SQLite3.zip",
+        "category":  "Dicionários",
+        "size":  "4.9 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/SC_Ges_br.dictionary.SQLite3.zip"
+    },
+    {
+        "name":  "Léxico Multi Vine Pro BR - Grupo Oficial no Telegram \u003e @MyBibleBrasil",
+        "fileName":  "MLVP BR.dictionary.zip",
+        "path":  "dictionary/MLVP BR.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "14.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/MLVP%20BR.dictionary.zip"
+    },
+    {
+        "name":  "Manual da Bíblia Aplicação Pessoal",
+        "fileName":  "MBAP.dictionary.zip",
+        "path":  "dictionary/MBAP.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "851 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/MBAP.dictionary.zip"
+    },
+    {
+        "name":  "Mapas da Bíblia",
+        "fileName":  "LDS-pt.dictionary.zip",
+        "path":  "dictionary/LDS-pt.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "13.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/LDS-pt.dictionary.zip"
+    },
+    {
+        "name":  "Novo Dicionário de Teologia - Sinclair B. Ferguson e David Wright",
+        "fileName":  "NDT.dictionary.zip",
+        "path":  "dictionary/NDT.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "1.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/NDT.dictionary.zip"
+    },
+    {
+        "name":  "Packard Códigos de análise morfológica",
+        "fileName":  "Packard_br.dictionary.zip",
+        "path":  "dictionary/Packard_br.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "3.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Packard_br.dictionary.zip"
+    },
+    {
+        "name":  "PAULO E SUAS CARTAS - Grupo Telegram t.me/MyBibleBrasil",
+        "fileName":  "PESC.dictionary.zip",
+        "path":  "dictionary/PESC.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "2.3 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/PESC.dictionary.zip"
+    },
+    {
+        "name":  "Português Inglês dicionário",
+        "fileName":  "pt-en.dictionary.zip",
+        "path":  "dictionary/pt-en.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "156 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/pt-en.dictionary.zip"
+    },
+    {
+        "name":  "Quem é Quem na Bíblia Sagrada - Canal Oficial t.me/MyBibleBrasil",
+        "fileName":  "QQB.dictionary.zip",
+        "path":  "dictionary/QQB.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "1.5 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/QQB.dictionary.zip"
+    },
+    {
+        "name":  "Quem é quem na Bíblia Sagrada - Paul Gardner",
+        "fileName":  "Gardner.dictionary.zip",
+        "path":  "dictionary/Gardner.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "1.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Gardner.dictionary.zip"
+    },
+    {
+        "name":  "Significado dos nomes",
+        "fileName":  "Nomes.dictionary.zip",
+        "path":  "dictionary/Nomes.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "157 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Nomes.dictionary.zip"
+    },
+    {
+        "name":  "Strong Pt Enriquecido",
+        "fileName":  "Strong Enr. .dictionary.zip",
+        "path":  "dictionary/Strong Enr. .dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "7.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Strong%20Enr.%20.dictionary.zip"
+    },
+    {
+        "name":  "Strong-PT Dicionários BDB-Thayer-TVM",
+        "fileName":  "Strong-PT.dictionary.zip",
+        "path":  "dictionary/Strong-PT.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "1.6 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Strong-PT.dictionary.zip"
+    },
+    {
+        "name":  "Tesouro de Conhecimentos Bíblicos - Emílio Conde",
+        "fileName":  "TCB.dictionary.zip",
+        "path":  "dictionary/TCB.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "599 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/TCB.dictionary.zip"
+    },
+    {
+        "name":  "The Bunning Heuristic Prototype (BHP) Léxico do Novo Testamento Grego",
+        "fileName":  "BHP-w.dictionary.zip",
+        "path":  "dictionary/BHP-w.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "3.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/BHP-w.dictionary.zip"
+    },
+    {
+        "name":  "The Bunning Heuristic Prototype (BHP) Morfologia Grega do Novo Testamento",
+        "fileName":  "BHP-m_br.dictionary.zip",
+        "path":  "dictionary/BHP-m_br.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "3.1 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/BHP-m_br.dictionary.zip"
+    },
+    {
+        "name":  "WYCLIFFE",
+        "fileName":  "Wicliffe.dictionary.zip",
+        "path":  "dictionary/Wicliffe.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "28.7 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/Wicliffe.dictionary.zip"
+    },
+    {
+        "name":  "Wycliffe ; Davis ; Champlin",
+        "fileName":  "DM.dictionary.zip",
+        "path":  "dictionary/DM.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "10.0 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/DM.dictionary.zip"
+    },
+    {
+        "name":  "Большой португальско-русский словарь",
+        "fileName":  "pt-ru.dictionary.zip",
+        "path":  "dictionary/pt-ru.dictionary.zip",
+        "category":  "Dicionários",
+        "size":  "3.2 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/dictionary/pt-ru.dictionary.zip"
+    },
+    {
+        "name":  "Subtítulos LTT",
+        "fileName":  "LTT-s.subheadings.zip",
+        "path":  "subheadings/LTT-s.subheadings.zip",
+        "category":  "Subtítulos",
+        "size":  "96 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/subheadings/LTT-s.subheadings.zip"
+    },
+    {
+        "name":  "Subtítulos NTLH",
+        "fileName":  "brNTLH-s.subheadings.zip",
+        "path":  "subheadings/brNTLH-s.subheadings.zip",
+        "category":  "Subtítulos",
+        "size":  "86 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/subheadings/brNTLH-s.subheadings.zip"
+    },
+    {
+        "name":  "Subtítulos NVI",
+        "fileName":  "brNVI-s.subheadings.zip",
+        "path":  "subheadings/brNVI-s.subheadings.zip",
+        "category":  "Subtítulos",
+        "size":  "58 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/subheadings/brNVI-s.subheadings.zip"
+    },
+    {
+        "name":  "Subtítulos PT",
+        "fileName":  "PT-s.subheadings.zip",
+        "path":  "subheadings/PT-s.subheadings.zip",
+        "category":  "Subtítulos",
+        "size":  "56 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/subheadings/PT-s.subheadings.zip"
+    },
+    {
+        "name":  "Bom dia! — Max Lucado. Vol 01. (Bom dia.365.devotions)",
+        "fileName":  "Bom dia.365.devotions.zip",
+        "path":  "devotions/Bom dia.365.devotions.zip",
+        "category":  "Devocionais",
+        "size":  "838 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/devotions/Bom%20dia.365.devotions.zip"
+    },
+    {
+        "name":  "Bom dia! — Max Lucado. Vol 01. (Bom dia.366.devotions)",
+        "fileName":  "Bom dia.366.devotions.zip",
+        "path":  "devotions/Bom dia.366.devotions.zip",
+        "category":  "Devocionais",
+        "size":  "833 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/devotions/Bom%20dia.366.devotions.zip"
+    },
+    {
+        "name":  "Gotas de consolo para a alma - Hernandes Dias Lopes (GCPA.365.devotions)",
+        "fileName":  "GCPA.365.devotions.zip",
+        "path":  "devotions/GCPA.365.devotions.zip",
+        "category":  "Devocionais",
+        "size":  "891 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/devotions/GCPA.365.devotions.zip"
+    },
+    {
+        "name":  "Gotas de consolo para a alma - Hernandes Dias Lopes (GCPA.366.devotions)",
+        "fileName":  "GCPA.366.devotions.zip",
+        "path":  "devotions/GCPA.366.devotions.zip",
+        "category":  "Devocionais",
+        "size":  "892 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/devotions/GCPA.366.devotions.zip"
+    },
+    {
+        "name":  "Janelas para a Vida - Alejandro Bullón (JPAV365.devotions)",
+        "fileName":  "JPAV365.devotions.zip",
+        "path":  "devotions/JPAV365.devotions.zip",
+        "category":  "Devocionais",
+        "size":  "333 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/devotions/JPAV365.devotions.zip"
+    },
+    {
+        "name":  "Janelas para a Vida - Alejandro Bullón (JPAV366.devotions)",
+        "fileName":  "JPAV366.devotions.zip",
+        "path":  "devotions/JPAV366.devotions.zip",
+        "category":  "Devocionais",
+        "size":  "331 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/devotions/JPAV366.devotions.zip"
+    },
+    {
+        "name":  "Manhã \u0026 Noite (Spurgeon.366.devotions)",
+        "fileName":  "Spurgeon.366.devotions.zip",
+        "path":  "devotions/Spurgeon.366.devotions.zip",
+        "category":  "Devocionais",
+        "size":  "638 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/devotions/Spurgeon.366.devotions.zip"
+    },
+    {
+        "name":  "Manhã \u0026 Noite (Spurgeon365.devotions)",
+        "fileName":  "Spurgeon365.devotions.zip",
+        "path":  "devotions/Spurgeon365.devotions.zip",
+        "category":  "Devocionais",
+        "size":  "637 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/devotions/Spurgeon365.devotions.zip"
+    },
+    {
+        "name":  "Portuguese Devotions | World Challenge",
+        "fileName":  "WC-pt.devotions.zip",
+        "path":  "devotions/WC-pt.devotions.zip",
+        "category":  "Devocionais",
+        "size":  "512 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/devotions/WC-pt.devotions.zip"
+    },
+    {
+        "name":  "Cantor Cristão - Organizado por Leondas Fernandes",
+        "fileName":  "CC-4.zip",
+        "path":  "hymnals/CC-4.zip",
+        "category":  "Hinários",
+        "size":  "1.8 MB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/hymnals/CC-4.zip"
+    },
+    {
+        "name":  "Coletânea Cantor Cristão",
+        "fileName":  "CCC.zip",
+        "path":  "hymnals/CCC.zip",
+        "category":  "Hinários",
+        "size":  "744 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/hymnals/CCC.zip"
+    },
+    {
+        "name":  "Harpa Cristã",
+        "fileName":  "Harpa.zip",
+        "path":  "hymnals/Harpa.zip",
+        "category":  "Hinários",
+        "size":  "180 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/hymnals/Harpa.zip"
+    },
+    {
+        "name":  "Hinário 4 Congregação Cristã no Brasil",
+        "fileName":  "H4CCB.zip",
+        "path":  "hymnals/H4CCB.zip",
+        "category":  "Hinários",
+        "size":  "193 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/hymnals/H4CCB.zip"
+    },
+    {
+        "name":  "HINÁRIO 5 CCB -",
+        "fileName":  "CCBH5.zip",
+        "path":  "hymnals/CCBH5.zip",
+        "category":  "Hinários",
+        "size":  "163 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/hymnals/CCBH5.zip"
+    },
+    {
+        "name":  "Hinário Adventista do Sétimo Dia - NFDR Studio \u0026 Infiltrovat'",
+        "fileName":  "HASDantigo.zip",
+        "path":  "hymnals/HASDantigo.zip",
+        "category":  "Hinários",
+        "size":  "158 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/hymnals/HASDantigo.zip"
+    },
+    {
+        "name":  "Hinário Batista para o Culto Cristão (HCC)",
+        "fileName":  "HCC.zip",
+        "path":  "hymnals/HCC.zip",
+        "category":  "Hinários",
+        "size":  "225 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/hymnals/HCC.zip"
+    },
+    {
+        "name":  "Hinário Evangélico Metodista-(HEM)",
+        "fileName":  "HEM.zip",
+        "path":  "hymnals/HEM.zip",
+        "category":  "Hinários",
+        "size":  "207 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/hymnals/HEM.zip"
+    },
+    {
+        "name":  "Hinário Novo Cântico da Igreja Presbiteriana",
+        "fileName":  "HNC.zip",
+        "path":  "hymnals/HNC.zip",
+        "category":  "Hinários",
+        "size":  "197 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/hymnals/HNC.zip"
+    },
+    {
+        "name":  "Hinário Salmos \u0026 Hinos Congregacionais",
+        "fileName":  "HS\u0026HC.zip",
+        "path":  "hymnals/HS\u0026HC.zip",
+        "category":  "Hinários",
+        "size":  "335 KB",
+        "url":  "https://raw.githubusercontent.com/RevRico/modulos-gpbible/main/hymnals/HS%26HC.zip"
+    }
 ]
